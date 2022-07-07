@@ -1,0 +1,29 @@
+
+header{
+    height:10vh;
+    background-color:transparent;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    position:fixed;
+    width: 100vw;
+    z-index: 3;
+    top:0;
+    left: 0;
+    right: 0;
+    
+}
+header.black{
+    background-color: #141414;
+}
+
+.imgLogo{
+    height:8vh;
+    margin:0 15px
+}
+.imgUser{
+    height:8vh;
+    margin:0 30px;
+    border-radius:3px;
+}

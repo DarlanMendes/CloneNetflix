@@ -1,0 +1,12 @@
+.poster{
+    width:150px;
+    transform:scale(0.9);
+    transition: 0.6s;
+    overflow-x: hidden;
+}
+.poster:hover{
+    transform: scale(1.0);
+}
+h2{
+    margin: 0 0 0 15px;
+}
